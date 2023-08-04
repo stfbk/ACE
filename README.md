@@ -6,4 +6,4 @@ The design of ACE was firstly described in the (yet to be published) article "*A
 
 Run the [helper](./launchHelper.sh) to get more information on ACE, or launch the [scripts](./scripts/) to run ACE on the example [workflows](./workflows/).
 
-> **Important** - ACE is still under development; we welcome your interest and encourage you to reach out at `sberlato@fbk.eu` for more information!
+> **Important** - ACE is still experimental and under active development; we welcome your interest and encourage you to reach out to the developers at `sberlato@fbk.eu` for more information!
